@@ -1,0 +1,15 @@
+{
+  "name": "Worker Info",
+  "short_name": "Worker Info",
+  "description": "Simple guide for migrant workers in Qatar: rights, changing jobs, where to get help, Ministry of Labour, ILO office, embassies. English, Hindi, Bengali, Nepali. Made by Nimrod.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3f4",
+  "theme_color": "#8A1538",
+  "lang": "en",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
