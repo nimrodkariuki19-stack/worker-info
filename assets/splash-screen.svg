@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1242" height="2688" viewBox="0 0 1242 2688" role="img" aria-label="Worker Info splash screen background">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#9D1D43"/>
+      <stop offset="100%" stop-color="#6B0F2B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="60%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1242" height="2688" fill="url(#bg)"/>
+  <rect width="1242" height="2688" fill="url(#glow)"/>
+
+  <g transform="translate(0,90)">
+    <circle cx="621" cy="720" r="174" fill="#F7F1F3" opacity="0.98"/>
+    <path d="M470 1132 C520 995, 722 995, 772 1132 L822 1486 L420 1486 Z" fill="#F7F1F3" opacity="0.98"/>
+
+    <path d="M516 750 C516 654, 570 590, 621 590 C672 590, 726 654, 726 750 L726 812 C726 915, 668 988, 621 988 C574 988, 516 915, 516 812 Z" fill="#8A1538" opacity="0.96"/>
+
+    <path d="M450 1100 L792 1100 L796 1250 C796 1312, 750 1362, 688 1362 L554 1362 C492 1362, 446 1312, 446 1250 Z" fill="#8A1538" opacity="0.96"/>
+
+    <path d="M500 725 L621 832 L742 725" fill="none" stroke="#F7F1F3" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M621 832 L621 632" fill="none" stroke="#F7F1F3" stroke-width="36" stroke-linecap="round"/>
+
+    <rect x="300" y="900" width="642" height="148" rx="48" fill="#F7F1F3" opacity="0.96"/>
+    <text x="621" y="996" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="120" font-weight="800" fill="#8A1538" letter-spacing="10">W</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF" text-anchor="middle" opacity="0.95">
+    <text x="621" y="1870" font-size="118" font-weight="700">Worker Info</text>
+    <text x="621" y="1978" font-size="56" font-weight="500" opacity="0.9">Know your rights</text>
+  </g>
+
+  <g opacity="0.18">
+    <circle cx="200" cy="500" r="28" fill="#FFFFFF"/>
+    <circle cx="1038" cy="610" r="20" fill="#FFFFFF"/>
+    <circle cx="980" cy="1860" r="34" fill="#FFFFFF"/>
+    <circle cx="220" cy="2100" r="26" fill="#FFFFFF"/>
+    <circle cx="1084" cy="2190" r="24" fill="#FFFFFF"/>
+  </g>
+</svg>
