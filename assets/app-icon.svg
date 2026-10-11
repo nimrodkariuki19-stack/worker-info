@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Worker Info app icon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#9D1D43"/>
+      <stop offset="100%" stop-color="#6B0F2B"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1024" height="1024" rx="220" fill="url(#bg)"/>
+  <rect x="110" y="110" width="804" height="804" rx="176" fill="url(#panel)" stroke="rgba(255,255,255,0.35)"/>
+
+  <g transform="translate(0,18)">
+    <circle cx="512" cy="330" r="118" fill="#F7F1F3" opacity="0.98"/>
+    <path d="M408 665 C440 570, 586 570, 618 665 L648 802 L376 802 Z" fill="#F7F1F3" opacity="0.98"/>
+
+    <path d="M438 350 C438 290, 476 252, 512 252 C548 252, 586 290, 586 350 L586 386 C586 447, 544 494, 512 494 C480 494, 438 447, 438 386 Z" fill="#8A1538" opacity="0.92"/>
+
+    <path d="M380 710 L644 710 L646 788 C646 814, 624 836, 598 836 L426 836 C400 836, 378 814, 378 788 Z" fill="#8A1538" opacity="0.92"/>
+
+    <path d="M418 330 L512 405 L606 330" fill="none" stroke="#F7F1F3" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M512 405 L512 260" fill="none" stroke="#F7F1F3" stroke-width="26" stroke-linecap="round"/>
+
+    <rect x="280" y="470" width="464" height="120" rx="36" fill="#F7F1F3" opacity="0.96"/>
+    <text x="512" y="548" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" fill="#8A1538" letter-spacing="8">W</text>
+  </g>
+
+  <g opacity="0.18" transform="translate(0,10)">
+    <circle cx="180" cy="210" r="22" fill="#FFFFFF"/>
+    <circle cx="848" cy="246" r="16" fill="#FFFFFF"/>
+    <circle cx="820" cy="776" r="28" fill="#FFFFFF"/>
+    <circle cx="180" cy="820" r="18" fill="#FFFFFF"/>
+  </g>
+</svg>
